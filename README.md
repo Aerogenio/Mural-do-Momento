@@ -1,7 +1,4 @@
 # Mural-do-Momento
-Deixe as suas mensagens, dicas, opiniões, sugestões e os recados aqui!
-
-<!DOCTYPE html>
 <html lang="pt-BR">
 <head>
   <meta charset="UTF-8" />
@@ -84,7 +81,7 @@ Deixe as suas mensagens, dicas, opiniões, sugestões e os recados aqui!
     </div>
     <div class="post">
       <h3>🚀 Novos talentos em destaque</h3>
-      <p>Recebemos as primeiras músicas de Luh Beats, Kael Rock e Bia Sadsoul.</p>
+      <p>A sua música poderá aparecer aqui.</p>
     </div>
     <div class="post">
       <h3>📺 Nova Live chegando</h3>
